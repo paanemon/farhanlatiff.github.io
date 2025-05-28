@@ -2,14 +2,15 @@
 
 A brief description of what this project does and who it's for.
 
-(http://logo_link)(http://destination_link1)
+[http://logo_link](http://destination_link)
 
 
 ## Badges
 
 Include some badges such as build status, test coverage, etc.
 
-(http://badge_link)(http://destination_link2)
+[http://badge_link](http://destination_link)
+
 
 
 ## Features
