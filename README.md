@@ -1,3 +1,26 @@
-# farhanlatiff.github.io
+# Project Title
 
-This is just a simple website about me. I am still new to this project and hoping to learn more in the future!
+A brief description of what this project does and who it's for.
+
+![Logo](http://logo_link)
+
+## Badges
+
+Include some badges such as build status, test coverage, etc.
+
+![Badge](http://badge_link)
+
+## Features
+
+- Feature 1  
+- Feature 2  
+- Feature 3
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/username/projectname.git
+cd projectname
+pip install -r requirements.txt
